@@ -47,4 +47,3 @@ A development server will be started running in port `8000`
 
 You can now go to your browser and navigate to `http://localhost:8000` and perform basic CRUD operations on what has been implemented.
 
-*Note that you still won't be able to generate timetable at this stage*
